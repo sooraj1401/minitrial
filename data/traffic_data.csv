@@ -1,0 +1,7 @@
+Intersection_ID,Day,Hour,Vehicle_Count,Pedestrian_Count,Signal_Duration
+1,Monday,8,150,20,60
+1,Monday,9,180,15,70
+2,Tuesday,17,200,25,75
+2,Tuesday,18,300,30,90
+3,Wednesday,12,250,40,80
+3,Wednesday,13,220,35,70
